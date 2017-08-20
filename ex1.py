@@ -1,0 +1,10 @@
+#print("hello world")
+print("hello again")
+print("i like tyeping this")
+print("this is fun")
+print("yay! printing")
+print("i'd much rather u not")
+print('i "said" do not touch this')
+print("hii harish")
+print("hello")
+
